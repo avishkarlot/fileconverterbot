@@ -35,4 +35,4 @@ python bot.py
 
 
 ```
-(images/conversion_bot.png)
+(images/fileconverterbot.png)

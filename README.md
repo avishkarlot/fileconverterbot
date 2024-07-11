@@ -35,5 +35,4 @@ python bot.py
 
 
 ```
-
-Replace `<repository_url>` and `<repository_name>` with your actual repository details. This Markdown file provides a structured overview of your bot's functionality, installation instructions, setup process, usage guidelines, and a placeholder for including a code snippet from `bot.py`.
+(images/conversion_bot.png)

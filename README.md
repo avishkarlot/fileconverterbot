@@ -1,10 +1,11 @@
-File Conversion Bot
-This is a Telegram bot that helps you convert documents between different formats. The bot supports conversion of the following document types:
+# Document Conversion Bot
 
-DOCX to PDF
-PDF to DOCX
-XLSX to CSV
-CSV to XLSX
+This Telegram bot facilitates document conversion between different formats:
+
+- **DOCX to PDF**
+- **PDF to DOCX**
+- **XLSX to CSV**
+- **CSV to XLSX**
 
 Install dependencies:
 ```sh

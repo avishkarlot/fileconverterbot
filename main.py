@@ -4,7 +4,7 @@ import os
 from pdf2docx import Converter
 import pandas as pd
 import openpyxl
-bot = telebot.TeleBot('6015352484:AAEg0shL6k8fLkxq0Q2WBWryUFKxVMjagO8')
+bot = telebot.TeleBot('YOUR_TELEGRAM_BOT_API_TOKEN')
 
 @bot.message_handler(commands=['start'])
 def say(message):

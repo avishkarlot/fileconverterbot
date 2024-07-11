@@ -9,12 +9,6 @@ bot = telebot.TeleBot('YOUR_TELEGRAM_BOT_API_TOKEN')
 @bot.message_handler(commands=['start'])
 def say(message):
     bot.send_message(message.chat.id, "Upload your Document to Convert [Note: Doc to PDF, PDF to Doc, Xlsx to CSV, CSV to Xlsx]")
-
-@bot.message_handler(func=lambda msg: msg.text is not None and '/' not in msg.text)
-def sayHi(message):
-    if message.text == "Watcha Doin Fella":
-         bot.reply_to(message, "Fuckin Your Mom Baby!")
-
     
 @bot.message_handler(content_types=['document'])
 def handle_document(message):

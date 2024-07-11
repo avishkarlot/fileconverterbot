@@ -35,4 +35,4 @@ python bot.py
 
 
 ```
-(images/fileconverterbot.png)
+![Document Conversion Bot](images/fileconverterbot.png)

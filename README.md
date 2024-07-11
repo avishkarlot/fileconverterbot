@@ -32,7 +32,8 @@ python bot.py
 4. Select a format to convert the document to using the provided options.
 5. The bot will convert the document and send it back to you.
 
+![Usage Example](images/fileconverterbot.png)
 
 
 ```
-![Document Conversion Bot](images/fileconverterbot.png)
+

@@ -1,23 +1,5 @@
 #File Coversion Bot
 
-```markdown
-# Document Conversion Bot
-
-This Telegram bot facilitates document conversion between various formats including DOCX, PDF, XLSX, and CSV.
-
-## Prerequisites
-
-- Python 3.x
-- Installation of necessary libraries listed in `requirements.txt`
-
-## Installation
-
-Clone the repository:
-```sh
-git clone <repository_url>
-cd <repository_name>
-```
-
 Install dependencies:
 ```sh
 pip install -r requirements.txt
@@ -43,24 +25,7 @@ python bot.py
 4. Select a format to convert the document to using the provided options.
 5. The bot will convert the document and send it back to you.
 
-## Code
 
-```python
-# Python code snippet from bot.py
-import telebot
-from docx2pdf import convert as doctopdf
-import os
-from pdf2docx import Converter
-import pandas as pd
-import openpyxl
-
-# Bot setup and message handling functions
-# (Insert relevant code snippet from bot.py here)
-```
-
-## License
-
-This project is licensed under the MIT License.
 
 ```
 

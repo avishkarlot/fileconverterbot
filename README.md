@@ -15,13 +15,13 @@ pip install -r requirements.txt
 ## Setup
 
 1. Obtain a Telegram Bot API token from [BotFather](https://core.telegram.org/bots#botfather).
-2. Replace the placeholder token in `bot.py` with your actual Telegram Bot API token.
+2. Replace the placeholder token in `main.py` with your actual Telegram Bot API token.
 
 ## Running the Bot
 
 Run the bot:
 ```sh
-python bot.py
+python main.py
 ```
 
 ## Usage
